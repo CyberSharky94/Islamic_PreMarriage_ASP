@@ -8,3 +8,5 @@ This project created using the following specification.
 -Database: Microsoft Access 2016
 -Language: HTML5, CSS3, JavaScript, ASP
 -Additional: Bootstrap
+
+[Degree: 5th Semester Mini-Project for Web Application Development]
